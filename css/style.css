@@ -1,0 +1,286 @@
+
+
+.navbar-nav a{
+
+margin-left: 60px;
+
+
+}
+
+
+header{
+
+
+ height: 100vh; 
+background-image: url(../images/sneakers.png);
+
+background-position: center;
+background-size: cover;
+
+}
+
+
+
+
+.hero h1{
+
+
+font-size: 60px;
+
+
+}
+
+.lifestyle-text{
+
+color: #537699;
+
+font-size: 85px;
+
+}
+
+.btn{
+
+    border: solid 1px #537699;
+    margin-left: 15px;
+    background-color: #537699;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    
+    }
+
+
+
+    .New img{
+
+
+        opacity: 1;
+        transform: scale(1);
+    
+     }
+    
+    
+     .New img:hover {
+    
+        opacity: .6;
+        transform: scale(1.1);
+
+
+     }
+
+
+
+
+     .adver{
+
+
+      padding-right: 0%;
+     }
+
+ .main{
+
+
+height: 710px ;
+width: auto;
+background-color:#fff4f8 ;
+
+ }
+
+ .main img{
+
+ height: 825px; width: 800px;
+
+
+
+ }
+
+ .price1{
+
+
+    color: #90bae0;
+font-size: 50px;
+
+
+ }
+
+.prices{
+
+
+list-style: none;
+
+display: flex;
+
+
+}
+
+.prices li{
+
+
+padding-right: 25px;
+
+
+}
+
+
+
+
+.prices li a{
+
+
+text-decoration: none;
+
+color: black;
+}
+
+.prices li a:hover {
+
+
+
+
+color: gray;
+}
+
+
+ .plus{
+
+
+color: #90bae0 ;
+
+ }
+
+ .other-ex-men img{
+
+
+width: 150px;
+
+
+ }
+ 
+ 
+ .title{
+
+
+color: #90bae0;
+font-size: 50px;
+
+ }
+
+
+
+
+
+
+
+ 
+ .another-items img{
+
+
+    opacity: 1;
+    transform: scale(1);
+
+ }
+
+
+ .another-items img:hover {
+
+    opacity: .6;
+    transform: scale(1.1);
+
+ }
+ 
+
+
+ .price2{
+
+color: #fdc689;
+
+    font-size: 50px;
+
+ }
+
+ .plus2{
+
+
+color: #fdc689;
+
+
+ }
+
+
+ 
+ .price3{
+
+
+    color: #b0686f;
+font-size: 50px;
+
+
+ }
+
+ .plus3{
+
+color: #fdc689;
+
+
+
+ }
+
+ footer{
+
+
+background-color: #537699;
+
+height: 450px;
+
+
+ }
+
+
+ footer ul{
+
+
+padding-left: 20px;
+
+list-style: none;
+
+ }
+
+ footer ul li{
+
+padding-bottom: 8px;
+
+ }
+
+ footer ul a{
+
+color: white;
+text-decoration: none;
+font-weight: bold;
+
+
+ }
+
+ .icons{
+
+margin-left: 500px;
+
+
+display: flex;
+
+ }
+
+ .icons a{
+
+padding-left: 1px;
+
+
+
+ }
+
+.icons i{
+
+width: 50px;
+
+}
+
